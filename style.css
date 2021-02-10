@@ -35,7 +35,7 @@ body{
   display: flex;
   font-weight: bold; /*толстый шрифт*/
   flex-flow: column; /*что это ?*/
-  align-items: center;
+    align-items: center;
   text-align: center;
   color: #FFFFFF;
   font-size: 60px;
@@ -115,9 +115,9 @@ footer {
   height: 20px;
 
   top: 8px;
-  
+  width: 100%;
   font-weight: bold; 
-  weight: 100%;
+
   align-items: center;
   text-align: center;
   color: #FFFFFF;
