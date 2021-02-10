@@ -117,7 +117,7 @@ footer {
   top: 8px;
   
   font-weight: bold; 
- 
+  weight: 100%;
   align-items: center;
   text-align: center;
   color: #FFFFFF;
