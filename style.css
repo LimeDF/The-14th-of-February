@@ -161,6 +161,7 @@ footer {
   background: #FF3864;
   position: absolute;
   top: 170px;
+  text-decoration: none;
   height: 30px;
   width: 200px;
   animation-duration: 2s;
